@@ -2,7 +2,7 @@
 3D assets for Sega Naomi Universal Cabinet, Net City, and dedicated driver, shooter, and special variant cabinets
 
 <p align="center">
-  <img src="https://github.com/ArcadeHustle/NaomiUniversal3D/blob/main/pics/birth.jpg">
+  <img src="https://github.com/ArcadeHustle/NaomiUniversal3D/blob/main/flyer/birth.jpg">
 </p>
 
 ## Licensing
