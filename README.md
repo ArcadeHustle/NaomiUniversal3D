@@ -48,19 +48,23 @@ Visual work on this project was inspired by "Dirty Arcade Cabinet by Cartti" on 
 https://assetstore.unity.com/packages/3d/props/electronics/dirty-arcade-cabinet-by-cartti-136993
 
 ## Cabinet variants
+
+Beta release MD5 sums:
 ```
-assets/CCBYNCSA_18Wheeler.fbx - 
-assets/CCBYNCSA_KingOfRoute66.fbx -	
-assets/CCBYNCSA_Outrun2.fbx -	
-assets/CCBYNCSA_Tengoku.fbx -		
-assets/CCBYNCSA_Upright_Generic.fbx -
-assets/CCBYNCSA_Upright_Tate.fbx -
-assets/CCBYNCSA_ConfidentialMission.fbx	-
-assets/CCBYNCSA_MarsTV.fbx -
-assets/CCBYNCSA_Sitdown_Generic.fbx -	
-assets/CCBYNCSA_Sitdown_Tate.fbx -	
-assets/CCBYNCSA_TypingOfTheDead.fbx -	
-assets/CCBYNCSA_WildRiders.fbx -
+MD5 (CCBYNCSA_18Wheeler.fbx) = 35a712b04da700fa23ea2b183bce3fc4
+MD5 (CCBYNCSA_ConfidentialMission.fbx) = c6a67c8c0d1d4af9ed90410bfe86ea61
+MD5 (CCBYNCSA_KingOfRoute66.fbx) = cce4d4af662a618df159e71b3bae2d29
+MD5 (CCBYNCSA_MarsTV.fbx) = e24aa923173f015ba2ab890877ca8c6b
+MD5 (CCBYNCSA_NaomiUniversalArcadeCabinets.blend) = ed6bff9c99de22191222b4ce83c60800
+MD5 (CCBYNCSA_NaomiUniversalArcadeCabinets.stl) = 974e4b69cdd1b43655bc0087415f3c8c
+MD5 (CCBYNCSA_Outrun2.fbx) = 948f5f0b0f1f216a9a7b3be1ff0a380c
+MD5 (CCBYNCSA_Sitdown_Generic.fbx) = d2ddec4695bf6ef1265d21a989f4c584
+MD5 (CCBYNCSA_Tengoku.fbx) = 2a804c27e06883eefdfe2cfc31783a52
+MD5 (CCBYNCSA_TypingOfTheDead.fbx) = e6e347effe247194271e677b7afaf14d
+MD5 (CCBYNCSA_Upright_Generic.fbx) = e3193d1e800fead1e6e8a597b017a4b0
+MD5 (CCBYNCSA_WildRiders.fbx) = eed3fe96d11bb34ad45c38fccc14131a
+MD5 (VR_build/VR_Build.apk) = 97d4f8b8a147d3c43b94730dcc9aac32
+
 ```
 ## Usage
 
