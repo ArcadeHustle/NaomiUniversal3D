@@ -71,7 +71,7 @@ https://docs.unity3d.com/Manual/HOWTO-importObject.html
 </p>
 
 ### Oculus Quest 2 sideload .apk
-An Android .apk file is included in the repo for those that just wish to quickly visualize the 3D render art work. You must firt be an Oculus Developer with development mode enabled. 
+An Android .apk file is included in the repo for those that just wish to quickly visualize the 3D render art work. You must first be an Oculus Developer with development mode enabled. 
 https://developer.oculus.com/documentation/native/android/mobile-device-setup/
 
 ## STL export for 3D Print
