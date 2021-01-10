@@ -94,6 +94,10 @@ https://developer.oculus.com/documentation/native/android/mobile-device-setup/
 You can make use of Blender to generate STL files from the .fbx files in order to make them compatible with common 3D printing software tools. 
 https://daler.github.io/blender-for-3d-printing/printing/export-stl.html
 
+<p align="center">
+  <img src="https://github.com/ArcadeHustle/NaomiUniversal3D/blob/main/pics/export.png">
+</p>
+
 Prints are currently taking an estimated 2+ days. 
 <p align="center">
   <img src="https://github.com/ArcadeHustle/NaomiUniversal3D/blob/main/pics/2days.jpg">
