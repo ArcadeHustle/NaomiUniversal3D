@@ -44,6 +44,21 @@ https://law.justia.com/cases/federal/appellate-courts/ca7/13-3004/13-3004-2014-0
 These models will aid in the scholalry research, and education of individuals that seek to understand the look and feel of late 90's and early 2000 era Sega arcade machines, without having physical access to them. 
 https://fairuse.stanford.edu/overview/fair-use/four-factors/
 
+## Cabinet variants
+
+assets/CCBYNCSA_18Wheeler.fbx - 
+assets/CCBYNCSA_KingOfRoute66.fbx -	
+assets/CCBYNCSA_Outrun2.fbx -	
+assets/CCBYNCSA_Tengoku.fbx -		
+assets/CCBYNCSA_Upright_Generic.fbx -
+assets/CCBYNCSA_Upright_Tate.fbx -
+assets/CCBYNCSA_ConfidentialMission.fbx	-
+assets/CCBYNCSA_MarsTV.fbx -
+assets/CCBYNCSA_Sitdown_Generic.fbx -	
+assets/CCBYNCSA_Sitdown_Tate.fbx -	
+assets/CCBYNCSA_TypingOfTheDead.fbx -	
+assets/CCBYNCSA_WildRiders.fbx -
+
 ## Usage
 
 The original intent of these models was for use with Facebook Oculus Quest 2 Platform, inside of the Unity development environment via the "VR Template".<br>
