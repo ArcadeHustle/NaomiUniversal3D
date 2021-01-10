@@ -44,6 +44,9 @@ https://law.justia.com/cases/federal/appellate-courts/ca7/13-3004/13-3004-2014-0
 These models will aid in the scholalry research, and education of individuals that seek to understand the look and feel of late 90's and early 2000 era Sega arcade machines, without having physical access to them. 
 https://fairuse.stanford.edu/overview/fair-use/four-factors/
 
+Visual work on this project was inspired by "Dirty Arcade Cabinet by Cartti" on Unity Asset Store
+https://assetstore.unity.com/packages/3d/props/electronics/dirty-arcade-cabinet-by-cartti-136993
+
 ## Cabinet variants
 
 assets/CCBYNCSA_18Wheeler.fbx - 
