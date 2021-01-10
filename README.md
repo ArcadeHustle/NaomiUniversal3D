@@ -35,7 +35,7 @@ https://www.law.cornell.edu/uscode/text/17/107
 
 All visual representations of Sega Naomi Universal Cabinet, Net City, dedicated driver, shooter, special variant cabinets, or any reasonable likeness there of are soley for the intent of non-profit preservation, or restoration efforts. 
 
-The intent it to complement historic Sega arcade machines that are now considered rare. This work is not intented to replace any official Sega in-game assets, or physical arcade machines, or parts. 
+The intent is to complement historic Sega arcade machines that are now considered rare. This work is not intented to replace any official Sega in-game assets, or physical arcade machines, or parts. 
 Much like the defendants in Kienitz v Sconnie, we have "removed so much of the original that, as with the Cheshire Cat, only the smile remains”, in this case ~what is left, besides a hint of Naomi’s smile, is the outline of her facade, which can’t be copyrighted.”<br>
 https://fairuse.stanford.edu/2014/12/22/much-photo-need-alter-avoid-copyright-infringement-hint-cheshire-cat/<br>
 https://fairuse.stanford.edu/case/kienitz-v-sconnie-nation-llc/<br>
