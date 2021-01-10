@@ -1,4 +1,4 @@
-# NaomiUniversal3D
+# Open Source Naomi Universal 3D assets
 3D assets for Sega Naomi Universal Cabinet, Net City, and dedicated driver, shooter, and special variant cabinets
 
 ## Licensing
@@ -8,22 +8,23 @@ https://creativecommons.org/faq/#Do_Creative_Commons_licenses_affect_exceptions_
 
 The intent is to allow all .fbx, and .blend files and their subsequent renderings to be used by the community. Likewise any subsequent export to .stl or other formats should abide by the same licensing, and intents.  
 
-The files are shared under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Generic (CC BY-NC-SA 4.0) licensing.
+The files are shared under: 
+```Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Generic (CC BY-NC-SA 4.0)```
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 You are free to:
-
+```
 Share — copy and redistribute the material in any medium or format
 Adapt — remix, transform, and build upon the material
 The licensor cannot revoke these freedoms as long as you follow the license terms.
-
+```
 Under the following terms:
-
+```
 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 NonCommercial — You may not use the material for commercial purposes.
 ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
+```
 ## Fair Use Declaration
 
 17 U.S. Code § 107 - Limitations on exclusive rights: Fair use
