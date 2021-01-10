@@ -1,6 +1,10 @@
 # Open Source Naomi Universal 3D assets
 3D assets for Sega Naomi Universal Cabinet, Net City, and dedicated driver, shooter, and special variant cabinets
 
+<p align="center">
+  <img src="https://github.com/ArcadeHustle/NaomiUniversal3D/blob/main/pics/birth.jpg">
+</p>
+
 ## Licensing
 These assets were created based on Fair Use, and Fair Dealing observations of historic Sega arcade cabinets from the late 90's and early 2000 era. 
 Photos from arcades, trade shows, and private collectors allowed for an accurate recreation of the cabinets visual exterior for restoration in digital 3D space. 
@@ -8,9 +12,9 @@ https://creativecommons.org/faq/#Do_Creative_Commons_licenses_affect_exceptions_
 
 The intent is to allow all .fbx, and .blend files and their subsequent renderings to be used by the community. Likewise any subsequent export to .stl or other formats should abide by the same licensing, and intents.  
 
-The files are shared under: 
+The files are shared under https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 ```Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Generic (CC BY-NC-SA 4.0)```
-https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 You are free to:
 ```
