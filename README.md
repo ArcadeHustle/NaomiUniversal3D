@@ -58,15 +58,12 @@ They are presented here in a portable format that will remain interoperable betw
 https://docs.blender.org/manual/en/2.80/addons/io_scene_fbx.html
 https://docs.unity3d.com/Manual/HOWTO-importObject.html
 
-NaomiUniversal3D pyro$ ls pics/
-Tengoku.jpeg	fleet.png
-
 <p align="center">
-  <img src="https://github.com/MAVProxyUser/NaomiUniversal3D/blob/master/pics/fleet.png">
+  <img src="https://github.com/ArcadeHustle/NaomiUniversal3D/blob/main/pics/fleet.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/MAVProxyUser/NaomiUniversal3D/blob/master/pics/Tengoku.jpeg">
+  <img src="https://github.com/ArcadeHustle/NaomiUniversal3D/blob/main/pics/Tengoku.jpeg">
 </p>
 
 ## STL export for 3D Print
@@ -76,10 +73,10 @@ https://daler.github.io/blender-for-3d-printing/printing/export-stl.html
 
 Prints are currently taking an estimated 2+ days. 
 <p align="center">
-  <img src="https://github.com/MAVProxyUser/NaomiUniversal3D/blob/master/pics/2days.jpeg">
+  <img src="https://github.com/ArcadeHustle/NaomiUniversal3D/blob/main/pics/2days.jpeg">
 </p>
 
 <p align="center">
-  <img src="https://github.com/MAVProxyUser/NaomiUniversal3D/blob/master/pics/realboy.png">
+  <img src="https://github.com/ArcadeHustle/NaomiUniversal3D/blob/main/pics/realboy.png">
 </p>
 
