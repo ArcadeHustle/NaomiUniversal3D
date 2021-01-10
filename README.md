@@ -7,7 +7,7 @@
 
 ## Licensing
 These assets were created based on Fair Use, and Fair Dealing observations of historic Sega arcade cabinets from the late 90's and early 2000 era. 
-Photos from arcades, trade shows, and private collectors allowed for an accurate recreation of the cabinets visual exterior for restoration in digital 3D space. 
+Photos from arcades, trade shows, marketing fliers, advertisements, and private collectors allowed for an accurate recreation of the cabinets visual exterior for restoration in digital 3D space. 
 https://creativecommons.org/faq/#Do_Creative_Commons_licenses_affect_exceptions_and_limitations_to_copyright.2C_such_as_fair_dealing_and_fair_use.3F
 
 The intent is to allow all .fbx, and .blend files and their subsequent renderings to be used by the community. Likewise any subsequent export to .stl or other formats should abide by the same licensing, and intents.  
