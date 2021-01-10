@@ -81,7 +81,7 @@ https://daler.github.io/blender-for-3d-printing/printing/export-stl.html
 
 Prints are currently taking an estimated 2+ days. 
 <p align="center">
-  <img src="https://github.com/ArcadeHustle/NaomiUniversal3D/blob/main/pics/2days.jpeg">
+  <img src="https://github.com/ArcadeHustle/NaomiUniversal3D/blob/main/pics/2days.jpg">
 </p>
 
 <p align="center">
