@@ -97,10 +97,18 @@ https://docs.unity3d.com/Manual/HOWTO-importObject.html
 </p>
 
 ### Oculus Quest 2 sideload .apk
+
 An Android .apk file is included in the repo for those that just wish to quickly visualize the 3D render art work. You must first be an Oculus Developer with development mode enabled. 
 https://developer.oculus.com/documentation/native/android/mobile-device-setup/
 
-## STL export for 3D Print
+### VRChat development assets
+You can easily make use of these assets in the VRChat development environment<br>
+https://docs.vrchat.com/docs/setting-up-the-sdk<br>
+https://hello.vrchat.com/developer-faq<br>
+https://docs.vrchat.com/docs/worlds<br>
+https://docs.vrchat.com/docs/choosing-your-sdk<br>
+
+### STL export for 3D Print
 
 You can make use of Blender to generate STL files from the .fbx files in order to make them compatible with common 3D printing software tools. 
 https://daler.github.io/blender-for-3d-printing/printing/export-stl.html
