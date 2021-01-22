@@ -116,3 +116,9 @@ https://daler.github.io/blender-for-3d-printing/printing/export-stl.html
 <p align="center">
   <img src="https://github.com/ArcadeHustle/NaomiUniversal3D/blob/main/pics/export.png">
 </p>
+
+There is a batch export tool included in the repo that will export all the fbx collections in the .blend file to .stl format, and place them in /tmp
+
+```
+/Applications/Blender.app/Contents/MacOS/Blender --background --python ../scripts/fbx_to_stl.py -- ~/Desktop/NaomiUniversal3D/assets/CCBYNCSA_NaomiUniversalArcadeCabinets.blend 
+```
