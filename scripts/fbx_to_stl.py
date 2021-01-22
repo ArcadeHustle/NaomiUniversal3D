@@ -72,7 +72,7 @@ for c in candidates:
 for c in candidates:
     scn_col.children.link(c)
     bpy.ops.export_mesh.stl(
-        filepath=stl_out + file_name(c.name) + ".stl"
+        filepath=stl_out + "CCBYNCSA_" + file_name(c.name) + ".stl"
     )
     scn_col.children.unlink(c)
 
